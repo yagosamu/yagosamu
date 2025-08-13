@@ -4,7 +4,12 @@ I build data-driven software that turns messy streams into clear decisions. With
 Currently specializing in API integrations and applied AI, building reliable interfaces between systems and intelligent services.
 
 ## Get in touch
-[LinkedIn](https://www.linkedin.com/in/yago-lopes/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yago_Lopes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-lopes/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me- EA4335?logo=gmail&logoColor=white)](mailto:yago.piedraslopes@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagosamu&show_icons=true&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagosamu&layout=compact)
 
 ## Badges
 Core
