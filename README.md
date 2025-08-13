@@ -1,4 +1,4 @@
-# Hey there, I'm Yago 👋
+# Hey there, I'm Yago! 
 
 I build data-driven software that turns messy streams into clear decisions. With 4+ years in Python and analytics—and a first chapter as a quantitative trader—I deliver finance‑grade data pipelines, web apps, and automation that ship.  
 Currently specializing in API integrations and applied AI, building reliable interfaces between systems and intelligent services.
