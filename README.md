@@ -3,13 +3,9 @@
 I build data-driven software that turns messy streams into clear decisions. With 4+ years in Python and analytics—and a first chapter as a quantitative trader—I deliver finance‑grade data pipelines, web apps, and automation that ship.  
 Currently specializing in API integrations and applied AI, building reliable interfaces between systems and intelligent services.
 
+Here are some ideas to get you started:
 ## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yago_Lopes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-lopes/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me- EA4335?logo=gmail&logoColor=white)](mailto:yago.piedraslopes@gmail.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagosamu&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagosamu&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/yago-lopes/)
 
 ## Badges
 Core
@@ -35,4 +31,3 @@ Data and Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
