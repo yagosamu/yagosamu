@@ -8,7 +8,7 @@ Currently focused on building SaaS products with integrated AI, applying Data Sc
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
