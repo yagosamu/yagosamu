@@ -1,5 +1,3 @@
-# Yago Piedras Lopes
-
 I build AI-powered SaaS products that turn data into intelligent decision systems.
 
 With 4+ years of experience in Python and analytics and a background as a quantitative trader, I design and develop scalable applications combining backend systems, machine learning, and data-driven logic.
