@@ -1,6 +1,6 @@
 I build AI-powered SaaS products, backend systems, and automation workflows that turn complex data and business processes into intelligent software.
 
-With 5 years of experience in Python, backend development, data automation, and applied AI, I design and build production-ready applications using REST APIs, databases, LLM integrations, RAG pipelines, and structured AI workflows.
+With 4+ years of experience in Python, backend development, data automation, and applied AI, I design and build production-ready applications using REST APIs, databases, LLM integrations, RAG pipelines, and structured AI workflows.
 
 My work focuses on practical AI systems: document analysis, semantic search, workflow automation, agentic analytics, and decision-support tools that create measurable business impact.
 
